@@ -1,6 +1,5 @@
 # Hi there, this is AWAQ! 👋
 
-I'm a noob just learned how to use computer🥹🥹🥹
 I'm a noob and just learned how to use computer 🥹🥹🥹
 
 ![](https://img.shields.io/badge/讨厌-二次元-yellow) 
@@ -26,11 +25,9 @@ I'm a noob and just learned how to use computer 🥹🥹🥹
 - 🌱 I’m currently learning advanced Solidity patterns and improving my understanding of blockchain architecture.
 - 🤔 I’m looking for opportunities to collaborate on open-source blockchain projects.
 - 😭 I’m trading cryptos and lose money.
-### 📬 Get in Touch
 
 ### 📬 Get in Touch
 
-[![X (Twitter)](https://img.shields.io/badge/X-Contact-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/your_username)
 [![X (Twitter)](https://img.shields.io/badge/X-Contact-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/_awaqawaqawaq_)
 [![Steam](https://img.shields.io/badge/Steam-🎮-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199048909611/)
 [![Email](https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail)](mailto:wwhy775@gmail.com)
