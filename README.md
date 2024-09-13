@@ -1,6 +1,11 @@
 # Hi there, this is AWAQ! 👋
 
 I'm a noob just learned how to use computer🥹🥹🥹
+I'm a noob and just learned how to use computer 🥹🥹🥹
+
+![](https://img.shields.io/badge/讨厌-二次元-yellow) 
+![](https://img.shields.io/badge/性格-内向-red) 
+![](https://img.shields.io/badge/爱好-原神-green)
 
 ### 🔧 Technologies & Tools
 
@@ -23,7 +28,10 @@ I'm a noob just learned how to use computer🥹🥹🥹
 - 😭 I’m trading cryptos and lose money.
 ### 📬 Get in Touch
 
+### 📬 Get in Touch
 
+[![X (Twitter)](https://img.shields.io/badge/X-Contact-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/your_username)
+[![Steam](https://img.shields.io/badge/Steam-🎮-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199048909611/)
 [![Email](https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail)](mailto:wwhy775@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-informational?style=flat&logo=telegram&color=2CA5E0)](https://t.me/AWAQAWAQAWAQ)
 ### 👀 Visitor Count
@@ -31,5 +39,25 @@ I'm a noob just learned how to use computer🥹🥹🥹
 ![](https://visitor-badge.glitch.me/badge?page_id=awaqawaqawaq)
 
 ### 🌟 Fun Fact
+
 - 🌍 I love exploring new technologies, from front-end frameworks to decentralized protocols.
 - 🧠 I enjoy solving complex coding challenges and learning about the latest advancements in the tech world.
+<br>
+<br>
+<br>
+
+![头像](/RS.gif)
+
+
+
+```html
+<img src="https://img.shields.io/badge/-KFC-red?style=for-the-badge&logo=kfc" width="200">
+<!-- KFC 图标在每个星期四显示 -->
+<script>
+  const today = new Date();
+  if (today.getDay() === 4) {  
+    document.write('<img src="https://img.shields.io/badge/-KFC-red?style=for-the-badge&logo=kfc" alt="KFC Thursday">');
+  }
+</script>
+```
+### TEPRJknBiF2mxnCYMf1KKDydbNTXEzNQc4
