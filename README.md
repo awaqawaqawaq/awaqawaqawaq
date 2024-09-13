@@ -31,6 +31,7 @@ I'm a noob and just learned how to use computer 🥹🥹🥹
 ### 📬 Get in Touch
 
 [![X (Twitter)](https://img.shields.io/badge/X-Contact-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/your_username)
+[![X (Twitter)](https://img.shields.io/badge/X-Contact-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/_awaqawaqawaq_)
 [![Steam](https://img.shields.io/badge/Steam-🎮-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199048909611/)
 [![Email](https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail)](mailto:wwhy775@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-informational?style=flat&logo=telegram&color=2CA5E0)](https://t.me/AWAQAWAQAWAQ)
