@@ -34,6 +34,7 @@ I'm a noob and just learned how to use computer 🥹🥹🥹
 [![Steam](https://img.shields.io/badge/Steam-🎮-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199048909611/)
 [![Email](https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail)](mailto:wwhy775@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-informational?style=flat&logo=telegram&color=2CA5E0)](https://t.me/AWAQAWAQAWAQ)
+
 ### 👀 Visitor Count
 
 ![](https://visitor-badge.glitch.me/badge?page_id=awaqawaqawaq)
