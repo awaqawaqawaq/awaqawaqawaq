@@ -49,14 +49,5 @@ I'm a noob and just learned how to use computer 🥹🥹🥹
 
 
 
-```html
-<img src="https://img.shields.io/badge/-KFC-red?style=for-the-badge&logo=kfc" width="200">
-<!-- KFC 图标在每个星期四显示 -->
-<script>
-  const today = new Date();
-  if (today.getDay() === 4) {  
-    document.write('<img src="https://img.shields.io/badge/-KFC-red?style=for-the-badge&logo=kfc" alt="KFC Thursday">');
-  }
-</script>
-```
+
 ### TEPRJknBiF2mxnCYMf1KKDydbNTXEzNQc4
